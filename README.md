@@ -1,6 +1,6 @@
-# VANEULEN Status
+# VANEULEN
 
-vom 19.03.2020
+19.03.2020
 
 ## Contact
 
