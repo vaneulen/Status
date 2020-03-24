@@ -10,7 +10,6 @@
 
 [Spotify](https://open.spotify.com/user/manuel.knoedlseder?si=IM8XHFfDQfK_hAhKhzOFsg)
 
-[artig](https://www.artig-muenchen.de/kunstler/manuel-knoedlseder/)
 
 ```bash
 * Wickr Me: vaneulen
