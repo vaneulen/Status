@@ -27,8 +27,8 @@
 
 ```bash
 
-“Time moves in one direction, memory in another.”
+“The quieter you become, the more you are able to hear.”
 
-― William Gibson
+― Rumi
 
 ```
