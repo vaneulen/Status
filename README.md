@@ -28,8 +28,8 @@
 
 ```bash
 
-“The quieter you become, the more you are able to hear.”
+“Society Can’t Understand Me”
 
-― Rumi
+― 6ix9ine
 
 ```
