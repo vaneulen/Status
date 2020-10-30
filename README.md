@@ -28,8 +28,8 @@
 
 ```bash
 
-“Society Can’t Understand Me”
+“Der Mensch ist frei geboren, und dennoch liegt er überall in Ketten.”
 
-― 6ix9ine
+― Jean-Jacques Rousseau
 
 ```
