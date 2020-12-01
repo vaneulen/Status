@@ -1,6 +1,6 @@
 # VANEULEN
 
-26.03.2020
+02.12.2020
 
 ## Contact
 
@@ -28,8 +28,8 @@
 
 ```bash
 
-“Der Mensch ist frei geboren, und dennoch liegt er überall in Ketten.”
+“Nur die sich misstrauen, brauchen Normen zum Sein.”
 
-― Jean-Jacques Rousseau
+― Konstantin Wecker
 
 ```
