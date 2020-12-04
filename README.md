@@ -2,7 +2,7 @@
 
 #### 032342Zdec20
 
-#### STATUS: 🌴/😴
+#### STATUS: 🌴/🥤
 
 ## Contact
 
