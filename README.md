@@ -30,8 +30,8 @@
 
 ```bash
 
-“Nur die sich misstrauen, brauchen Normen zum Sein.”
+“Was sich überhaupt sagen lässt, lässt sich klar sagen; und wovon man nicht reden kann, darüber muss man schweigen.”
 
-― Konstantin Wecker
+― Ludwig Wittgenstein
 
 ```
