@@ -1,6 +1,6 @@
 # VANEULEN 👽
 
-#### 094022Zdec20
+#### 104022Zdec20
 
 #### STATUS: 🌴
 
@@ -30,9 +30,9 @@
 
 ```bash
 
-“Was sich überhaupt sagen lässt, lässt sich klar sagen; und wovon man nicht reden kann, darüber muss man schweigen.”
+“Unser Leben ist nichts anderes als das, worauf wir unsere Aufmerksamkeit richten.”
 
-― Ludwig Wittgenstein
+― William James
 
 ```
 
