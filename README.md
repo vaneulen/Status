@@ -22,11 +22,11 @@
 * Threema ID: BFVEK49A 🟢
 ```
 
-## Bitcoin Adresse
+## Bitcoin Address
 
 14EEQX8U3577VCAi9Ph5y1F4Dw7TdZNMaV
 
-## Zitat der Woche
+## Quote of the week
 
 ```bash
 
@@ -36,7 +36,7 @@
 
 ```
 
-## Bücher
+## Books
 
 ### I am currently reading
 
