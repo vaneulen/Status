@@ -1,6 +1,6 @@
 # VANEULEN 👽
 
-#### 220931Zdec20
+#### 221131Zdec20
 
 #### STATUS: 🌴 🎆
 
@@ -14,6 +14,7 @@
 
 
 ```bash
+* WhatsApp: OFF 🔴
 * Wickr Me: vaneulen 🟢
 * E-Mail: vaneulen@protonmail.com 🟢
 * hack.chat/?vaneulen 🔴
