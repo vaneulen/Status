@@ -1,6 +1,6 @@
 # VANEULEN 👽
 
-#### 031245Zjan21
+#### 031920Zjan21
 
 #### STATUS: 🌴
 
@@ -46,11 +46,21 @@
 
 ### Books read
 
-- Die letzte Stunde der Wahrheit: Kritik der komplexitätsvergessenen Vernunft (Armin Nassehi)
-- Der Weg der Disziplin: Wie man Schwächen besiegt, Angst überwindet und den Weg zur inneren Ruhe findet (Jocko Willink)
-- Die große Gereiztheit: Wege aus der kollektiven Erregung (Bernhard Pörksen)
-- Netter is better: Die hohe Kunst der guten Laune (Thomas Hermanns)
-- Life Undercover: Als Agentin bei der CIA (Amaryllis Fox)
-- Filter Bubble: Wie wir im Internet entmündigt werden (Eli Pariser)
-- Relativ real: Warum wir die Wirklichkeit nicht erfassen können und wie die Evolution unsere Wahrnehmung geformt hat (Donald D. Hoffman)
-- Schluss mit dem täglichen Weltuntergang: Wie wir uns gegen die digitale Vermüllung unserer Gehirne wehren (Prof. Dr. Maren Urner)
+- Die letzte Stunde der Wahrheit (Armin Nassehi)
+- Der Weg der Disziplin (Jocko Willink)
+- Die große Gereiztheit (Bernhard Pörksen)
+- Netter is better (Thomas Hermanns)
+- Life Undercover (Amaryllis Fox)
+- Filter Bubble (Eli Pariser)
+- Relativ real (Donald D. Hoffman)
+- Schluss mit dem täglichen Weltuntergang (Prof. Dr. Maren Urner)
+- Frank Thelen - Die Autobiografie, Startup-DNA (Frank Thelen)
+- Die 7 Wege zur Effektivität (Stephen R. Covey)
+- Der Weg der Disziplin (Jocko Willink)
+- Extreme Ownership - mit Verantwortung führen (Jocko Willink)
+- Homo Deus (Yuval Noah Harari)
+- Die Gesetze der Gewinner (Bodo Schäfer)
+- Das 24 Stunden Buch (Thomas Klußmann & Christoph J.F.Schreiber)
+- Das Taschenbuch für Gründer (Sascha Ahlers & Thomas Klußmann)
+- Menschen lesen (Joe Navarro)
+- Menschen verstehen und lenken (Joe Navarro)
