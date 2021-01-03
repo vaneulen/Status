@@ -1,8 +1,8 @@
 # VANEULEN 👽
 
-#### 221131Zdec20
+#### 031200Zjan21
 
-#### STATUS: 🌴 🎆
+#### STATUS: 🌴
 
 ## Contact
 
@@ -31,9 +31,9 @@
 
 ```bash
 
-“Unser Leben ist nichts anderes als das, worauf wir unsere Aufmerksamkeit richten.”
+“Das Leben kann nur in der Schau nach rückwärts verstanden, aber nur in der Schau nach vorwärts gelebt werden.”
 
-― William James
+― Søren Kierkegaard
 
 ```
 
@@ -41,11 +41,11 @@
 
 ### I am currently reading
 
-- Die letzte Stunde der Wahrheit: Kritik der komplexitätsvergessenen Vernunft (Armin Nassehi)
 - NSA - Nationales Sicherheits-Amt: Roman (Andreas Eschbach)
 
 ### Books read
 
+- Die letzte Stunde der Wahrheit: Kritik der komplexitätsvergessenen Vernunft (Armin Nassehi)
 - Der Weg der Disziplin: Wie man Schwächen besiegt, Angst überwindet und den Weg zur inneren Ruhe findet (Jocko Willink)
 - Die große Gereiztheit: Wege aus der kollektiven Erregung (Bernhard Pörksen)
 - Netter is better: Die hohe Kunst der guten Laune (Thomas Hermanns)
