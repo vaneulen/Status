@@ -1,6 +1,6 @@
 # VANEULEN 👽
 
-#### 121345Zjan21
+#### 181930Zjan21
 
 #### STATUS: 💻
 
@@ -41,11 +41,12 @@
 
 ### I am currently reading
 
-- Ich weiß nicht, was ich wollen soll. (Bas Kast)
+- Zehn Milliarden (Stephen Emmott)
 - NSA - Nationales Sicherheits-Amt: Roman (Andreas Eschbach)
 
 ### Books read
 
+- Ich weiß nicht, was ich wollen soll. (Bas Kast)
 - Die letzte Stunde der Wahrheit (Armin Nassehi)
 - Der Weg der Disziplin (Jocko Willink)
 - Die große Gereiztheit (Bernhard Pörksen)
