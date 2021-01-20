@@ -1,6 +1,6 @@
 # VANEULEN 👽
 
-#### 181930Zjan21
+#### 201945Zjan21
 
 #### STATUS: 💻
 
@@ -41,11 +41,11 @@
 
 ### I am currently reading
 
-- Zehn Milliarden (Stephen Emmott)
 - NSA - Nationales Sicherheits-Amt: Roman (Andreas Eschbach)
 
 ### Books read
 
+- Zehn Milliarden (Stephen Emmott)
 - Ich weiß nicht, was ich wollen soll. (Bas Kast)
 - Die letzte Stunde der Wahrheit (Armin Nassehi)
 - Der Weg der Disziplin (Jocko Willink)
