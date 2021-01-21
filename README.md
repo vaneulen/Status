@@ -41,6 +41,7 @@
 
 ### I am currently reading
 
+- Minimalismus (Konrad Sewell)
 - NSA - Nationales Sicherheits-Amt: Roman (Andreas Eschbach)
 
 ### Books read
