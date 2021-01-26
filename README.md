@@ -41,11 +41,11 @@
 
 ### I am currently reading
 
-- Minimalismus (Konrad Sewell)
 - NSA - Nationales Sicherheits-Amt: Roman (Andreas Eschbach)
 
 ### Books read
 
+- Minimalismus (Konrad Sewell)
 - Zehn Milliarden (Stephen Emmott)
 - Ich weiß nicht, was ich wollen soll. (Bas Kast)
 - Die letzte Stunde der Wahrheit (Armin Nassehi)
