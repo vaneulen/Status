@@ -1,6 +1,6 @@
 # VANEULEN 👽
 
-#### 201945Zjan21
+#### 262145Zjan21
 
 #### STATUS: 💻
 
@@ -31,9 +31,9 @@
 
 ```bash
 
-“Das Leben kann nur in der Schau nach rückwärts verstanden, aber nur in der Schau nach vorwärts gelebt werden.”
+“Das Leben ist einfach, aber wir bestehen darauf, es kompliziert zu machen.“
 
-― Søren Kierkegaard
+― Konfuzius
 
 ```
 
