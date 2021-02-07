@@ -41,6 +41,7 @@
 
 ### I am currently reading
 
+- Digitale Gefolgschaft (Christoph Türcke)
 - NSA - Nationales Sicherheits-Amt: Roman (Andreas Eschbach)
 
 ### Books read
