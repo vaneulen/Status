@@ -1,6 +1,6 @@
 # VANEULEN 👽
 
-#### 262145Zjan21
+#### 042006Zmar21
 
 #### STATUS: 💻
 
@@ -41,11 +41,12 @@
 
 ### I am currently reading
 
-- Digitale Gefolgschaft (Christoph Türcke)
+- Von der Pflicht (Richard David Precht)
 - NSA - Nationales Sicherheits-Amt: Roman (Andreas Eschbach)
 
 ### Books read
 
+- Digitale Gefolgschaft (Christoph Türcke)
 - Minimalismus (Konrad Sewell)
 - Zehn Milliarden (Stephen Emmott)
 - Ich weiß nicht, was ich wollen soll. (Bas Kast)
