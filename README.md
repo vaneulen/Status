@@ -1,6 +1,6 @@
 # VANEULEN 👽
 
-#### 042006Zmar21
+#### 151030Zmar21
 
 #### STATUS: 💻
 
@@ -41,11 +41,12 @@
 
 ### I am currently reading
 
-- Von der Pflicht (Richard David Precht)
+- Die Realität des Risikos (Julian Nida-Rümelin, Nathalie Weidenfeld)
 - NSA - Nationales Sicherheits-Amt: Roman (Andreas Eschbach)
 
 ### Books read
 
+- Von der Pflicht (Richard David Precht)
 - Digitale Gefolgschaft (Christoph Türcke)
 - Minimalismus (Konrad Sewell)
 - Zehn Milliarden (Stephen Emmott)
