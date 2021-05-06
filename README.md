@@ -1,6 +1,6 @@
 # VANEULEN 👽
 
-#### 151030Zmar21 ```(DTG Date Time Group) ```
+#### 061255Zmay21 ```(DTG Date Time Group) ```
 
 #### STATUS: 💻
 
@@ -41,11 +41,11 @@
 
 ### I am currently reading
 
-- Die Realität des Risikos (Julian Nida-Rümelin, Nathalie Weidenfeld)
 - NSA - Nationales Sicherheits-Amt: Roman (Andreas Eschbach)
 
 ### Books read
 
+- Die Realität des Risikos (Julian Nida-Rümelin, Nathalie Weidenfeld)
 - Von der Pflicht (Richard David Precht)
 - Digitale Gefolgschaft (Christoph Türcke)
 - Minimalismus (Konrad Sewell)
