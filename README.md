@@ -1,6 +1,6 @@
 # VANEULEN 👽
 
-#### 061255Zmay21 ```(DTG Date Time Group) ```
+#### 030911Zjun21 ```(DTG Date Time Group) ```
 
 #### STATUS: 💻
 
@@ -41,7 +41,7 @@
 
 ### I am currently reading
 
-- NSA - Nationales Sicherheits-Amt: Roman (Andreas Eschbach)
+- Solidarität (Heinz Bude)
 
 ### Books read
 
