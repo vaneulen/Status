@@ -1,6 +1,6 @@
 # VANEULEN 👽
 
-#### 030911Zjun21 ```(DTG Date Time Group) ```
+#### 061150Zjun21 ```(DTG Date Time Group) ```
 
 #### STATUS: 💻
 
@@ -41,10 +41,11 @@
 
 ### I am currently reading
 
-- Solidarität (Heinz Bude)
+- CONTROL THE GAME (Michael Bergmeier)
 
 ### Books read
 
+- Solidarität (Heinz Bude)
 - Die Realität des Risikos (Julian Nida-Rümelin, Nathalie Weidenfeld)
 - Von der Pflicht (Richard David Precht)
 - Digitale Gefolgschaft (Christoph Türcke)
