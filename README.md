@@ -21,6 +21,7 @@
 * Bitmessage:BM-2cT15C1hVdx9Bi9r9PRMidkW9wEowsVS8N 🔴
 * riot.im: #vaneulen 🔴
 * Threema ID: BFVEK49A 🟢
+* Datash: 4721 🟢
 ```
 
 ## Bitcoin Address
