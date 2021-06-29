@@ -1,8 +1,8 @@
 # VANEULEN 👽
 
-#### 061150Zjun21 ```(DTG Date Time Group) ```
+#### 291830Zjun21 ```(DTG Date Time Group) ```
 
-#### STATUS: 💻
+#### STATUS: 📖
 
 ## Contact
 
@@ -42,10 +42,11 @@
 
 ### I am currently reading
 
-- CONTROL THE GAME (Michael Bergmeier)
+- Die Shitstorm-Republik (Nicole Diekmann)
 
 ### Books read
 
+- CONTROL THE GAME (Michael Bergmeier)
 - Solidarität (Heinz Bude)
 - Die Realität des Risikos (Julian Nida-Rümelin, Nathalie Weidenfeld)
 - Von der Pflicht (Richard David Precht)
