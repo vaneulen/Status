@@ -72,3 +72,6 @@
 - Das Taschenbuch für Gründer (Sascha Ahlers & Thomas Klußmann)
 - Menschen lesen (Joe Navarro)
 - Menschen verstehen und lenken (Joe Navarro)
+
+
+# [🔙](http://vaneulen.com/Home)
