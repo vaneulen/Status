@@ -42,10 +42,11 @@
 
 ### I am currently reading
 
-- Die Shitstorm-Republik (Nicole Diekmann)
+- Über Menschen (Juli Zeh)
 
 ### Books read
 
+- Die Shitstorm-Republik (Nicole Diekmann)
 - CONTROL THE GAME (Michael Bergmeier)
 - Solidarität (Heinz Bude)
 - Die Realität des Risikos (Julian Nida-Rümelin, Nathalie Weidenfeld)
