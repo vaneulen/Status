@@ -42,10 +42,12 @@
 
 ### I am currently reading
 
-- Über Menschen (Juli Zeh)
+- LEBENSMEISTERSCHAFT (Patrick Reiser)
 
 ### Books read
 
+- Im Wald vor lauter Bäumen (Dirk Brockmann)
+- Über Menschen (Juli Zeh)
 - Die Shitstorm-Republik (Nicole Diekmann)
 - CONTROL THE GAME (Michael Bergmeier)
 - Solidarität (Heinz Bude)
