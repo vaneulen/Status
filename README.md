@@ -42,10 +42,11 @@
 
 ### I am currently reading
 
-- LEBENSMEISTERSCHAFT (Patrick Reiser)
+- Gödel, Escher, Bach (Douglas R. Hofstadter)
 
 ### Books read
 
+- LEBENSMEISTERSCHAFT (Patrick Reiser)
 - Im Wald vor lauter Bäumen (Dirk Brockmann)
 - Über Menschen (Juli Zeh)
 - Die Shitstorm-Republik (Nicole Diekmann)
